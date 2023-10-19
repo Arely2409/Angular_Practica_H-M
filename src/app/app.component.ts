@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Practica_H-M';
+  mMujer:boolean = false;
+  mHombre:boolean = false;
 }
